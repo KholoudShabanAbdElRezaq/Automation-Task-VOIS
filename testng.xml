@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="DemoCommerce Suite">
+    <test name="baseclass">
+        <classes>
+            <class name="Base.Base_Test">
+            </class>
+        </classes>  <!-- the directory of the listeners class in the project-->
+    </test>
+    <test name="searchTest">
+        <classes>
+            <class name="Task1.Scenario">
+            </class>
+        </classes>
+    </test>
+
+    <test name="addTest">
+        <classes>
+            <class name="add_to_card.add_to_card_test">
+            </class>
+        </classes>
+    </test>
+
+    <test name="GoTest">
+        <classes>
+            <class name="Go_TO_Card.GO_TO_Cart_Test">
+            </class>
+        </classes>
+    </test>
+
+
+    <test name="GoTodayTest">
+        <classes>
+            <class name="TodayDaily.Today_Daily_Test">
+            </class>
+        </classes>
+    </test>
+
+    <test name="DepTodayTest">
+        <classes>
+            <class name="Dep_Item_Daily.Dep_item_Daily_Test">
+            </class>
+        </classes>
+    </test>
+
+    <test name="SelectitemTodayTest">
+        <classes>
+            <class name="Select_item_Daily.Select_item_daily_Test">
+            </class>
+        </classes>
+    </test>
+
+    <test name="ChoooseitemTodayTest">
+        <classes>
+            <class name="Choose_Item.Choose_Item_test">
+            </class>
+        </classes>
+    </test>
+
+
+</suite>
