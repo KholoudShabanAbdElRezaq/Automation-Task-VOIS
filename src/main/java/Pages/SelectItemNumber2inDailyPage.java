@@ -10,7 +10,7 @@ public class SelectItemNumber2inDailyPage {
 
     public SelectItemNumber2inDailyPage(WebDriver webDriver)
     {
-
+//
         this.webDriver=webDriver;
     }
     public addtocartPage choose_item()
