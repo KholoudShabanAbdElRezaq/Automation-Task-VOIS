@@ -5,6 +5,7 @@
         <classes>
             <class name="Base.Base_Test">
             </class>
+            
         </classes>  <!-- the directory of the listeners class in the project-->
     </test>
     <test name="searchTest">
