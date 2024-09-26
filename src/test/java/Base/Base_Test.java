@@ -24,6 +24,7 @@ public class Base_Test {
          homePage=new HomePage(webDriver);
          homePage.Click_button_search_box();
     }
+    //close all
      @AfterMethod
     public void  TearDown()
     {
