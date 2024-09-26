@@ -7,6 +7,7 @@ public class DepartmentsPage {
     //Headphones & Earbuds
     //10% off or more
     //Grocery & Gourmet Food
+    //
 
 
     private WebDriver webDriver;
