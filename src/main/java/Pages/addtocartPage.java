@@ -10,6 +10,7 @@ public class addtocartPage {
     public addtocartPage(WebDriver webDriver)
     {
         this.webDriver=webDriver;
+        
     }
 
     public GOtocartPage click_to_add_card()
